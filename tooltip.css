@@ -1,0 +1,11 @@
+/*JAVASCRIPT*/
+.tooltip {
+    display: block;
+    position: fixed;
+    pointer-events: none;
+    color: white;
+    padding: 0 5px;
+    border-radius: var(--radius-1);
+    background-color: rgba(0, 0, 0, 0.686);
+    z-index: 10;
+}

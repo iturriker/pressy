@@ -1,0 +1,349 @@
+{
+    "chapters": [
+        {
+            "index": 0,
+            "title": "Word",
+            "img": {
+                "alt": "Word",
+                "src": "https://res-1.cdn.office.net/files/fabric-cdn-prod_20230815.002/assets/brand-icons/product/svg/word_48x1.svg"
+            },
+            "description": "Crea documentos impresionantes y mejora la escritura con características integradas inteligentes.",
+            "pages": [
+                {
+                    "lindex": 0,
+                    "gindex": 0
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "title": "Excel",
+            "img": {
+                "alt": "Excel",
+                "src": "https://res-1.cdn.office.net/files/fabric-cdn-prod_20230815.002/assets/brand-icons/product/svg/excel_48x1.svg"
+            },
+            "description": "Simplifica datos complejos y crea hojas de cálculo fáciles de leer.",
+            "pages": [
+                {
+                    "lindex": 0,
+                    "gindex": 1
+                }
+            ]
+        },
+        {
+            "index": 2,
+            "title": "PowerPoint",
+            "img": {
+                "alt": "PowerPoint",
+                "src": "https://res-1.cdn.office.net/files/fabric-cdn-prod_20230815.002/assets/brand-icons/product/svg/powerpoint_48x1.svg"
+            },
+            "description": "Crea fácilmente presentaciones cuidadas que destaquen.",
+            "pages": [
+                {
+                    "lindex": 0,
+                    "gindex": 2
+                }
+            ]
+        },
+        {
+            "index": 3,
+            "title": "Windows 11 Empresas",
+            "img": {
+                "alt": "Windows 11 Empresas",
+                "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/768px-Windows_logo_-_2021.svg.png?20220927154043"
+            },
+            "description": "Consigue una administración de puntos de conexión nativa de la nube y actualizaciones automáticas. Ayuda a los empleados a estar protegidos con la seguridad de Confianza cero, trabajen donde trabajen.",
+            "pages": [
+                {
+                    "lindex": 0,
+                    "gindex": 3
+                }
+            ]
+        },
+        {
+            "index": 4,
+            "title": "Outlook",
+            "img": {
+                "alt": "Outlook",
+                "src": "https://res-1.cdn.office.net/files/fabric-cdn-prod_20230815.002/assets/brand-icons/product/svg/outlook_48x1.svg"
+            },
+            "description": "Administra tu correo electrónico, calendario, tareas y contactos en un solo lugar.",
+            "pages": [
+                {
+                    "lindex": 0,
+                    "gindex": 4
+                }
+            ]
+        },
+        {
+            "index": 5,
+            "title": "Exchange",
+            "img": {
+                "alt": "Exchange",
+                "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Microsoft_Exchange_%282019-present%29.svg/768px-Microsoft_Exchange_%282019-present%29.svg.png?20200116211703"
+            },
+            "description": "Trabaja de forma más inteligente con el calendario y el correo electrónico de clase empresarial.",
+            "pages": [
+                {
+                    "lindex": 0,
+                    "gindex": 5
+                }
+            ]
+        },
+        {
+            "index": 6,
+            "title": "SharePoint",
+            "img": {
+                "alt": "SharePoint",
+                "src": "https://res-1.cdn.office.net/files/fabric-cdn-prod_20230815.002/assets/brand-icons/product/svg/sharepoint_48x1.svg"
+            },
+            "description": "Comparte y administra contenido, conocimientos y aplicaciones para impulsar el trabajo en equipo.",
+            "pages": [
+                {
+                    "lindex": 0,
+                    "gindex": 6
+                }
+            ]
+        },
+        {
+            "index": 7,
+            "title": "OneNote",
+            "img": {
+                "alt": "OneNote",
+                "src": "https://res-1.cdn.office.net/files/fabric-cdn-prod_20230815.002/assets/brand-icons/product/svg/onenote_48x1.svg"
+            },
+            "description": "Un bloc de notas de funciones cruzadas para satisfacer todas tus necesidades de toma de notas.",
+            "pages": [
+                {
+                    "lindex": 0,
+                    "gindex": 7
+                }
+            ]
+        },
+        {
+            "index": 8,
+            "title": "OneDrive",
+            "img": {
+                "alt": "OneDrive",
+                "src": "https://res-1.cdn.office.net/files/fabric-cdn-prod_20230815.002/assets/brand-icons/product/svg/onedrive_48x1.svg"
+            },
+            "description": "Guarda archivos y fotos, accede a ellos y compártelos desde cualquier lugar de forma segura.",
+            "pages": [
+                {
+                    "lindex": 0,
+                    "gindex": 8
+                }
+            ]
+        },
+        {
+            "index": 9,
+            "title": "Microsoft Stream",
+            "img": {
+                "alt": "Microsoft Stream",
+                "src": "https://res-1.cdn.office.net/files/fabric-cdn-prod_20230815.002/assets/brand-icons/product/svg/stream_48x1.svg"
+            },
+            "description": "Participa e informa con vídeos inteligentes.",
+            "pages": [
+                {
+                    "lindex": 0,
+                    "gindex": 9
+                }
+            ]
+        },
+        {
+            "index": 10,
+            "title": "Microsoft Bookings",
+            "img": {
+                "alt": "Microsoft Bookings",
+                "src": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Bookings?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=64&hei=64&qlt=100&fmt=png-alpha&fit=constrain"
+            },
+            "description": "Simplifica la forma en la que los clientes programan y administran las citas.",
+            "pages": [
+                {
+                    "lindex": 0,
+                    "gindex": 10
+                }
+            ]
+        },
+        {
+            "index": 11,
+            "title": "Microsoft Access",
+            "img": {
+                "alt": "Microsoft Access (solo PC)",
+                "src": "https://res-1.cdn.office.net/files/fabric-cdn-prod_20230815.002/assets/brand-icons/product/svg/access_48x1.svg"
+            },
+            "description": "Crea y comparte aplicaciones empresariales sin ser desarrollador.",
+            "pages": [
+                {
+                    "lindex": 0,
+                    "gindex": 11
+                }
+            ]
+        },
+        {
+            "index": 12,
+            "title": "Viva Engage",
+            "img": {
+                "alt": "Viva Engage",
+                "src": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/6c3fae_viva-engage?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=64&hei=64&qlt=100&fmt=png-alpha&fit=constrain"
+            },
+            "description": "Conecta a todos los integrantes de tu organización mediante conversaciones y comunidades de empleados.",
+            "pages": [
+                {
+                    "lindex": 0,
+                    "gindex": 12
+                }
+            ]
+        },
+        {
+            "index": 13,
+            "title": "Viva Insights",
+            "img": {
+                "alt": "Viva Insights",
+                "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Viva-insights.svg/768px-Viva-insights.svg.png?20240927191702"
+            },
+            "description": "Mejora la productividad y el bienestar con conclusiones y recomendaciones personales controladas por datos.",
+            "pages": [
+                {
+                    "lindex": 0,
+                    "gindex": 13
+                }
+            ]
+        },
+        {
+            "index": 14,
+            "title": "Listas Microsoft",
+            "img": {
+                "alt": "Listas Microsoft",
+                "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Microsoft_Lists_%282020-present%29.svg/768px-Microsoft_Lists_%282020-present%29.svg.png?20210510155906"
+            },
+            "description": "Mantente al día de todo con la aplicación de seguimiento inteligente de la información.",
+            "pages": [
+                {
+                    "lindex": 0,
+                    "gindex": 14
+                }
+            ]
+        },
+        {
+            "index": 15,
+            "title": "Microsoft Forms",
+            "img": {
+                "alt": "Microsoft Forms",
+                "src": "https://res-1.cdn.office.net/files/fabric-cdn-prod_20230815.002/assets/brand-icons/product/svg/forms_48x1.svg"
+            },
+            "description": "Crea encuestas y sondeos fácilmente.",
+            "pages": [
+                {
+                    "lindex": 0,
+                    "gindex": 15
+                }
+            ]
+        },
+        {
+            "index": 16,
+            "title": "Sway",
+            "img": {
+                "alt": "Sway",
+                "src": "https://res-1.cdn.office.net/files/fabric-cdn-prod_20230815.002/assets/brand-icons/product/svg/sway_48x1.svg"
+            },
+            "description": "Crea informes interactivos, presentaciones, historias personales y mucho más.",
+            "pages": [
+                {
+                    "lindex": 0,
+                    "gindex": 16
+                }
+            ]
+        },
+        {
+            "index": 17,
+            "title": "Visio",
+            "img": {
+                "alt": "Visio",
+                "src": "https://res-1.cdn.office.net/files/fabric-cdn-prod_20230815.002/assets/brand-icons/product/svg/visio_48x1.svg"
+            },
+            "description": "Crea diagramas de flujo, diagramas de red, diagramas de Azure, organigramas y mucho más.",
+            "pages": [
+                {
+                    "lindex": 0,
+                    "gindex": 17
+                }
+            ]
+        },
+        {
+            "index": 18,
+            "title": "Power Apps",
+            "img": {
+                "alt": "Power Apps",
+                "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Powerapps-logo.svg/1024px-Powerapps-logo.svg.png?20250219191713"
+            },
+            "description": "Crea las aplicaciones que necesitas y amplía o personaliza las existentes.",
+            "pages": [
+                {
+                    "lindex": 0,
+                    "gindex": 18
+                }
+            ]
+        },
+        {
+            "index": 19,
+            "title": "Power Automate",
+            "img": {
+                "alt": "Power Automate",
+                "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Microsoft_Power_Automate.svg/1024px-Microsoft_Power_Automate.svg.png?20240215095559"
+            },
+            "description": "Realiza tareas repetitivas con facilidad con la automatización de flujos de trabajo.",
+            "pages": [
+                {
+                    "lindex": 0,
+                    "gindex": 19
+                }
+            ]
+        },
+        {
+            "index": 20,
+            "title": "Power BI",
+            "img": {
+                "alt": "Power BI",
+                "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/900px-New_Power_BI_Logo.svg.png?20210102182532"
+            },
+            "description": "Conecta, visualiza y comparte datos con paneles personalizados.",
+            "pages": [
+                {
+                    "lindex": 0,
+                    "gindex": 20
+                }
+            ]
+        },
+        {
+            "index": 21,
+            "title": "Teams",
+            "img": {
+                "alt": "Teams",
+                "src": "https://res-1.cdn.office.net/files/fabric-cdn-prod_20230815.002/assets/brand-icons/product/svg/teams_48x1.svg"
+            },
+            "description": "Reúnete, llama y colabora con una plataforma de comunicación unificada.",
+            "pages": [
+                {
+                    "lindex": 0,
+                    "gindex": 21
+                }
+            ]
+        },
+        {
+            "index": 22,
+            "title": "Yammer",
+            "img": {
+                "alt": "Yammer",
+                "src": "https://res-1.cdn.office.net/files/fabric-cdn-prod_20230815.002/assets/brand-icons/product/svg/yammer_48x1.svg"
+            },
+            "description": "Fomenta las conexiones y la comunicación entre toda la organización.",
+            "pages": [
+                {
+                    "lindex": 0,
+                    "gindex": 22
+                }
+            ]
+        }
+    ]
+}
